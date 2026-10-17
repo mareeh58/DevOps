@@ -9,3 +9,4 @@ Another local line for rebase test
 clean line for rebase test
 This line was updated remotely and locally at the same time
 Line for first commit in Task 6
+Small change for Task 7
